@@ -1,0 +1,2 @@
+# others-resource
+- Storage resource
