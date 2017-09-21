@@ -1,0 +1,4 @@
+- Home - https://wppb.io/
+- Generate - https://wppb.me/
+- Github - https://github.com/DevinVinson/WordPress-Plugin-Boilerplate
+- Plugin created with Boilerplate - https://github.com/DevinVinson/WordPress-Plugin-Boilerplate/wiki/Example-Plugins
