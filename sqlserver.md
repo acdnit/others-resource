@@ -1,0 +1,1 @@
+- Create command grant: SELECT 'GRANT SELECT ON "' + TABLE_SCHEMA + '"."' + TABLE_NAME + '" TO "gialai"' FROM information_schema.tables
